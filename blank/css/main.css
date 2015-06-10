@@ -1,0 +1,19 @@
+/*-----------PRESET------------*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color: white
+}
+
+/*-----------END PRESET------------*/
